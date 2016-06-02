@@ -31,6 +31,7 @@ For crashing bugs you don't need 2 & 3, because the game just shouldn't crash.  
 
 ### Example of a helpful issue
 
+```
 (attached crashlog zip here...)
 
 Steps:
@@ -43,9 +44,12 @@ Steps:
 
 Expected: According to the instructions, clicking a neighbouring letter will move to it.
 Instead: The game doesn't seem to respond to these clicks.  It's not frozen...clicking the pause button still works.
+```
 
 ### Example of a less helpful issue
 
+```
 The swimming game is broken!  The screen is always stopping and the game never ends.
+```
 
 (Which of the two swimming games?  Which difficulty?  Always stopping in what way and under what conditions?  "Always", does that mean it starts again somehow?  If so, how?  Etc...)
