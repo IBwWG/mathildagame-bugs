@@ -29,7 +29,7 @@ Go to the Issues tab at the top of the page and search to see if someone else al
 
 For crashing bugs you don't need 2 & 3, because the game just shouldn't crash.  For most other issues these two will help bring clarity to anyone reading the issue.
 
-## Example of a helpful issue
+### Example of a helpful issue
 
 (attached crashlog zip here...)
 
@@ -44,7 +44,7 @@ Steps:
 Expected: According to the instructions, clicking a neighbouring letter will move to it.
 Instead: The game doesn't seem to respond to these clicks.  It's not frozen...clicking the pause button still works.
 
-## Example of a less helpful issue
+### Example of a less helpful issue
 
 The swimming game is broken!  The screen is always stopping and the game never ends.
 
