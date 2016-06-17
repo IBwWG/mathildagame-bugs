@@ -46,7 +46,7 @@ The swimming game is broken!  The screen is always stopping and the game never e
 
 (Which of the two swimming games?  Which difficulty?  Always stopping in what way and under what conditions?  "Always", does that mean it starts again somehow?  If so, how?  Etc...)
 
-## * Wait, what data are you collecting?
+### * Optional reading: Wait, what data are you collecting?
 
 Current builds come with a recorder that should help me reproduce any bugs you find (not to worry: it only records what you do *within* the game *while it's running*.)  It also includes:
 
