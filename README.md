@@ -7,11 +7,11 @@ There's no code here, it's just used as a gathering place for reporting issues w
 
 ## Sending helpful data
 
-If the game crashes, or you exit via the title screen, this happens automatically.*  So don't press Alt+F4 to quit!
+If the game crashes, or you exit via the title screen, this happens automatically.*  (So don't press Alt+F4 to quit!)
 
 ## Non-crashing issues
 
-Please take a screenshot by pressing F12.  They're saved automatically to the `screenshots` subdirectory of the game's data directory, which you can open from the Options menu on the title screen.
+Please take a screenshot by pressing the F12 key.  They're saved automatically to the `screenshots` subdirectory of the game's data directory, which you can open from the Options menu on the title screen.
 
 ## Posting the issue
 
