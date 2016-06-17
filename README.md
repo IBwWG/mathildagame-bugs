@@ -54,6 +54,6 @@ Current builds come with a recorder that should help me reproduce any bugs you f
 2. Your computer's specs, which can be helpful sometimes for hardware-specific bugs.
 3. A stack trace of a crash (if applicable) which is very helpful for isolating crashing bugs.
 
-Each log is found in its own subfolder under the game's data directory, in the `logs` subdirectory.  You can find it easily using the "Open game data folder" button on the Options screen from the main menu.
+Each log is found in its own subfolder under the game's data directory, in the `log\errors` subdirectory.  You can find it easily using the "Open game data folder" button on the Options screen from the main menu.
 
-That's also where you can disable the automatic sending of data, if you would like to.  It's still collected and stored in `logs`, in case you want to manually send any information for a particular bug report; you can zip a particular log folder and drag-n-drop the zip file directly into a public Github issue to attach it.
+That's also where you can disable the automatic sending of data, if you would like to.  It's still collected and stored in `log\errors`, in case you want to manually send any information for a particular bug report; you can zip a particular log folder and drag-n-drop the zip file directly into a public Github issue to attach it.
