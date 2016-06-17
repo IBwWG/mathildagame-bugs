@@ -7,7 +7,7 @@ There's no code here, it's just used as a gathering place for reporting issues w
 
 ## Sending helpful data
 
-If the game crashes, or you exit via the title screen, this happens automatically.*  (So don't press Alt+F4 to quit!)
+If the game crashes, or you exit via the title screen, this happens automatically.*  (So don't quit by pressing Alt+F4, nor by clicking the window's X!)
 
 ## Non-crashing issues
 
